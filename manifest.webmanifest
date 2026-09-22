@@ -1,0 +1,39 @@
+{
+  "name": "ÚtilHub V23 — NOVA FLOW",
+  "short_name": "ÚtilHub",
+  "description": "ÚtilHub V23: herramientas útiles, productividad, conversiones, diccionario y NOVA FLOW.",
+  "lang": "es-PE",
+  "dir": "ltr",
+
+  "start_url": "./index.html",
+  "scope": "./",
+
+  "display": "standalone",
+  "display_override": [
+    "window-controls-overlay",
+    "standalone",
+    "minimal-ui"
+  ],
+
+  "orientation": "any",
+
+  "background_color": "#050914",
+  "theme_color": "#07111f",
+
+  "categories": [
+    "utilities",
+    "productivity",
+    "education"
+  ],
+
+  "prefer_related_applications": false,
+
+  "icons": [
+    {
+      "src": "./index.html",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
